@@ -4,11 +4,11 @@
 ```bash
 git clone -b docker https://github.com/feen-11/rails-docker.git
 ```
-コピーしてきたプロジェクトへ移動
+プロジェクトへ移動
 ```bash
 cd rails-docker
 ```
-プロジェクトを起動
+起動
 ```bush
 docker-compose up
 ```
