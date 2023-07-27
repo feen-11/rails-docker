@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# 環境構築
+## git clone ...
+## cd /rails-docker
+## docker-compose up
