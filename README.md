@@ -12,5 +12,5 @@ cd rails-docker
 ```bush
 docker-compose up
 ```
-以下のURLでアクセスできます<br>
+以下のURLでアクセス<br>
 http://localhost:3000/
