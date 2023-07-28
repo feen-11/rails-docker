@@ -2,7 +2,7 @@
 # 環境構築
 プロジェクトをローカルへコピー
 ```bash
-git clone -b docker https://github.com/feen-11/rails-docker.git
+git clone https://github.com/feen-11/rails-docker.git
 ```
 プロジェクトへ移動
 ```bash
